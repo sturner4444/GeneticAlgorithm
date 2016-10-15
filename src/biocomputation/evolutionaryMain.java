@@ -2,6 +2,8 @@
  * Stephen Turner, Computer Science BSc Year 3
  * University Of the West Of England
  */
+
+//HERE IS A MASSIVE CHANGE I'VE MADE TO THIS FILE
 package biocomputation;
 
 import java.io.FileNotFoundException;
